@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OjLOUs+8TCeGf0qHUsR4aV+qmBv1/3DHakLkfHESoCX1YfgIZ0qtWlPPjrwElfmqbOQVCRleLiznmQoA9ENV8g==",
+  "dgSpecHash": "DydDIxNmPg/D+/IXL6vj6MzLubioxmE3TseUyyEzfH9h//HRV3b5b+6PWza+Ez8h9zuf7jGecNERj8BXqZDBuw==",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\csharp-exercises\\Api-lucas\\Api-lucas.csproj",
+  "projectFilePath": "d:\\Workspace\\csharp-exercises\\Api-lucas\\Api-lucas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucmi\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\lucmi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

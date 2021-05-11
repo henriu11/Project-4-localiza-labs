@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\csharp-exercises\\Api-lucas\\Api-lucas.csproj": {}
+    "d:\\Workspace\\csharp-exercises\\Api-lucas\\Api-lucas.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\csharp-exercises\\Api-lucas\\Api-lucas.csproj": {
+    "d:\\Workspace\\csharp-exercises\\Api-lucas\\Api-lucas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\csharp-exercises\\Api-lucas\\Api-lucas.csproj",
+        "projectUniqueName": "d:\\Workspace\\csharp-exercises\\Api-lucas\\Api-lucas.csproj",
         "projectName": "Api-lucas",
-        "projectPath": "D:\\Workspace\\csharp-exercises\\Api-lucas\\Api-lucas.csproj",
+        "projectPath": "d:\\Workspace\\csharp-exercises\\Api-lucas\\Api-lucas.csproj",
         "packagesPath": "C:\\Users\\lucmi\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\csharp-exercises\\Api-lucas\\obj\\",
+        "outputPath": "d:\\Workspace\\csharp-exercises\\Api-lucas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
